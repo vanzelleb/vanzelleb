@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vanzelleb
+- 👋 Hi, I’m Van Zelleb
 - 👀 I’m interested in coding with JavaScript
 - 🌱 I’m currently learning to build an application that uses APIs
 - 📫 You can reach me on Twitter @vanzelleb
