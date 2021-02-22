@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Van Zelleb
 - 👀 I’m interested in coding with JavaScript
-- 🌱 I’m currently learning to build an application that uses APIs
+- 🌱 I’m currently working on an application to track stock portfolio statistics
 - 📫 You can reach me on Twitter @vanzelleb
 
 <!---
