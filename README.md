@@ -1,6 +1,6 @@
-- 👀 I’m interested in solving problems even if I'm the only one who has them ;-)
-- 🌱 I’m currently working on an application to track stock portfolio performance
-- 📫 You can reach me on Twitter @vanzelleb
+- 👀 I’m interested in solving problems and trying out new technologies
+- 🌱 I’m currently working on a web app to track stock portfolio performance
+- 📫 I'm on Twitter @vanzelleb
 
 <!---
 vanzelleb/vanzelleb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
