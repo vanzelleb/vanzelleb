@@ -1,6 +1,11 @@
-- 👀 I’m interested in solving problems and trying out new technologies
-- 🌱 I’m currently working on a web app to track stock portfolio performance
-- 📫 I'm on Twitter @vanzelleb
+Hi,
+
+I'd like to try programming for a living. 
+I'm experimenting with Javascript, Vue 3 composition API, Tensorflow and UI/UX.
+Let's get in touch if you like what I'm doing here.
+
+[<img src="https://raw.githubusercontent.com/deathlyface/deathlyface/main/twitter.png" alt="Twitter">](https://twitter.com/vanzelleb)
+
 
 <!---
 vanzelleb/vanzelleb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
