@@ -1,10 +1,9 @@
 Hi,
 
-I'd like to try programming for a living. 
-I'm experimenting with HTML, CSS, Javascript, Vue 3 composition API, Tensorflow and UI/UX for several years now.
+I'm experimenting with HTML, CSS, Javascript, Vue 3 composition API, Nuxt.js, Tensorflow and UI/UX.
 Let's get in touch if you like what I'm doing here.
 
-[<img src="https://raw.githubusercontent.com/deathlyface/deathlyface/main/twitter.png" alt="Twitter">](https://twitter.com/vanzelleb)
+https://twitter.com/vanzelleb
 
 
 <!---
