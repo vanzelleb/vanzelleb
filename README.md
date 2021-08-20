@@ -2,6 +2,8 @@
 
 I'm experimenting with Javascript (Vue.js), Python (flask, pandas), Machine Learning (<a href="https://www.kaggle.com/vanzelleb">Kaggle</a>), Tensorflow (handpose), APIs (geospatial, timeseries) and UI/UX (vuetify, bootstrap) design.
 
+<a href="https://www.linkedin.com/in/hwandsleb/">LinkedIn</a>
+
 ---
 **Stock portfolio app**
 
