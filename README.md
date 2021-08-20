@@ -7,7 +7,7 @@ I'm experimenting with Javascript (Vue.js), Python (flask, pandas), Machine Lear
 ---
 **Stock portfolio app**
 
-Here I am documenting the UI changes my stock portfolio app went through over time:
+I am documenting the app's UI evolution over time here:
 https://www.instagram.com/pollofolio/
 
 Try it out here: 
