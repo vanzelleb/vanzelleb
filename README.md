@@ -10,19 +10,23 @@ I'm experimenting with Javascript (Vue.js), Python (flask, pandas), Machine Lear
 Here I am documenting the UI changes my stock portfolio app went through over time:
 https://www.instagram.com/pollofolio/
 
-Try it out here: https://uglyfolio.netlify.app/
+Try it out here: 
+https://uglyfolio.netlify.app/
 
 ---
 
 **Airport home search experiment**
 
-Try it out here: https://b2e6g.sse.codesandbox.io/
+Try it out here: 
+https://b2e6g.sse.codesandbox.io/
 
 ---
 
 **Handtracking experiments**
 
-Try it out here: https://55bic.csb.app/
+Try it out here: 
+https://55bic.csb.app/
+https://u8g4i.csb.app/
 
 
 <!---
