@@ -8,12 +8,13 @@ I'm experimenting with Javascript (Vue.js), Python (flask, pandas), Machine Lear
 Here I am documenting the UI changes my stock portfolio app went through over time:
 https://www.instagram.com/pollofolio/
 
-Here you can try it out for yourself:
-https://uglyfolio.netlify.app/
+Try it out here: https://uglyfolio.netlify.app/
 
 ---
 
 **Airport home search experiment**
+
+Try it out here https://b2e6g.sse.codesandbox.io/
 
 ---
 
