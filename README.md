@@ -16,11 +16,13 @@ Try it out here: https://uglyfolio.netlify.app/
 
 **Airport home search experiment**
 
-Try it out here https://b2e6g.sse.codesandbox.io/
+Try it out here: https://b2e6g.sse.codesandbox.io/
 
 ---
 
 **Handtracking experiments**
+
+Try it out here: https://55bic.csb.app/
 
 
 <!---
