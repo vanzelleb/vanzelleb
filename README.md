@@ -1,9 +1,9 @@
 Hi,
 
-I'm experimenting with HTML, CSS, Javascript, Vue 3 composition API, Nuxt.js, Tensorflow and UI/UX.
-Let's get in touch if you like what I'm doing here.
+I'm experimenting with Javascript Vue.js framework, Python (Flask, pandas), Machine Learning (Kaggle), Tensorflow, APIs (geospatial, time series) and UI/UX design.
 
-**My stock portfolio app - Uglyfolio**
+
+***My stock portfolio app - Uglyfolio***
 
 Here I am documenting the UI changes my stock portfolio app went through over time:
 https://www.instagram.com/pollofolio/
