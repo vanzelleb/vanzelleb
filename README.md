@@ -1,6 +1,6 @@
 Hi,
 
-I'm experimenting with Javascript Vue.js framework, Python (Flask, pandas), Machine Learning (Kaggle), Tensorflow, APIs (geospatial, time series) and UI/UX design.
+I'm experimenting with Javascript (Vue.js), Python (flask, pandas), Machine Learning (Kaggle), Tensorflow (handpose), APIs (geospatial, timeseries) and UI/UX (vuetify, bootstrap) design.
 
 
 ***My stock portfolio app - Uglyfolio***
