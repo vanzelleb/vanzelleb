@@ -7,7 +7,7 @@ I'm experimenting with Javascript, Python, Machine Learning (<a href="https://ww
 ---
 **Stock portfolio app**
 
-A simple app to visualize time series data of stocks and to create some portfolio statistics
+An app to visualize stock prices, stop loss limits and to calculate some basic stock portfolio performance statistics.
 
 I am documenting the app's UI evolution over time here:
 https://www.instagram.com/pollofolio/
