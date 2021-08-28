@@ -7,6 +7,8 @@ I'm experimenting with Javascript, Python, Machine Learning (<a href="https://ww
 ---
 **Stock portfolio app**
 
+A simple app to visualize time series data of stocks and to create some portfolio statistics
+
 I am documenting the app's UI evolution over time here:
 https://www.instagram.com/pollofolio/
 
@@ -17,12 +19,16 @@ https://uglyfolio.netlify.app/
 
 **Airport home search experiment**
 
+Combines data from Amadeus, Mapbox and Idealista APIs to visualize homes to buy in proximity to Spanish airports (in case you want to be there quick).
+
 Try it out here: 
 https://b2e6g.sse.codesandbox.io/
 
 ---
 
-**Handtracking experiment (The "Om" machine)**
+**Hand tracking experiment (The "Om" machine)**
+
+Makes the "Om" sound when bringing your thumb and index finger close together.
 
 Try it out here: 
 https://7c2h5.csb.app/
