@@ -3,6 +3,7 @@
 I'm experimenting with Javascript, Python, Machine Learning (<a href="https://www.kaggle.com/vanzelleb">Kaggle</a>), Tensorflow, APIs and UI/UX design.
 
 <a href="https://www.linkedin.com/in/hwandsleb/">LinkedIn</a>
+
 <a href="https://www.youtube.com/channel/UCcu6_Z6PNjeN4ML_T8EnVnw">Youtube</a>
 
 ---
