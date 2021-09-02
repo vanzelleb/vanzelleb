@@ -35,6 +35,14 @@ Makes the "Om" sound when bringing your thumb and index finger close together.
 Try it out here: 
 https://7c2h5.csb.app/
 
+---
+
+**3D pose tracking (and ball play) experiment**
+
+It's as good as it sounds. Move your hands around in front of your webcam and manipulate the position of 3D objects in the browser. Works best if you stand at least 2m away from your computer.
+
+Tri it out here:
+https://zkdjm.sse.codesandbox.io/
 
 
 <!---
