@@ -2,10 +2,6 @@
 
 I'm experimenting with Javascript, Python, Machine Learning (<a href="https://www.kaggle.com/vanzelleb">Kaggle</a>), Tensorflow, APIs and UI/UX design.
 
-<a href="https://www.linkedin.com/in/hwandsleb/">LinkedIn</a>
-
-<a href="https://www.youtube.com/channel/UCcu6_Z6PNjeN4ML_T8EnVnw">Youtube</a>
-
 
 ### Some of my experiments:
 
@@ -39,7 +35,7 @@ https://7c2h5.csb.app/
 
 ---
 
-**3D pose tracking with balls**
+**3D pose tracking**
 
 It's as good as it sounds. Move your hands around in front of your webcam and manipulate the position of 3D objects in the browser. Works best if you stand at least 2 meters away from your webcam.
 
