@@ -2,9 +2,6 @@
 
 I'm experimenting with Javascript, Python, Machine Learning (<a href="https://www.kaggle.com/vanzelleb">Kaggle</a>), Tensorflow, APIs and UI/UX design.
 
-
-### Some of my experiments:
-
 **Stock portfolio app**
 
 An app to visualize stock prices, stop loss limits and to calculate some basic stock portfolio performance statistics.
