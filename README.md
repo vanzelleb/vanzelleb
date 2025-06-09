@@ -1,6 +1,6 @@
 # Hi there!
 
-I'm experimenting with Javascript, Python, Machine Learning, APIs and UI/UX design.
+I'm experimenting with Javascript, Python, APIs and UI/UX design.
 
 **Stock portfolio app**
 
